@@ -7,7 +7,7 @@ import pandas as pd
 ENTER YOU TELEGRAM TOKEN
 EXCEL_FILE = 'Отстатки (1).xls'
 
-admin_ids = [968116200]  # ← Замени на свой Telegram ID
+admin_ids = []  # ← Замени на свой Telegram ID
 
 
 # === Чтение данных из Excel ===
